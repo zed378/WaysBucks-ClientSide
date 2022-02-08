@@ -1,3 +1,17 @@
+# Announcement
+
+### This poject optimized for screen with width:
+
+- 1920p
+- 1440p
+- 1366p
+- 1024p
+- 900p
+- 768p
+- 600p
+- 480p
+- 360p
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
